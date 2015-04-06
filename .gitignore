@@ -1,0 +1,4 @@
+/.enb/tmp
+libs/
+node_modules/
+tests/

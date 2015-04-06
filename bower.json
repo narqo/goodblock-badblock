@@ -1,0 +1,19 @@
+{
+  "name": "bem-layout",
+  "version": "0.0.0",
+  "authors": [
+    "Vladimir Varankin <nek.narqo@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bem-core": "~2.6.0",
+    "bem-components": "~2.1.0"
+  }
+}

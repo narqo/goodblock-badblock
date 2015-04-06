@@ -1,0 +1,20 @@
+.headmenu
+{
+    &__more {
+        padding: 5px 0;
+        line-height: 40px;
+
+        transition: visibility 0.3s ease-in;
+        visibility: hidden;
+    }
+
+    &_js_inited &__more
+    {
+        position: absolute;
+    }
+
+    &_has-more &__more
+    {
+        visibility: visible;
+    }
+}
